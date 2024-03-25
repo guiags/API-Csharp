@@ -30,3 +30,5 @@ C:\Users\guilh\Documents\Projects\MyfirstAPI\obj\Debug\net8.0\refint\MyfirstAPI.
 C:\Users\guilh\Documents\Projects\MyfirstAPI\obj\Debug\net8.0\MyfirstAPI.pdb
 C:\Users\guilh\Documents\Projects\MyfirstAPI\obj\Debug\net8.0\MyfirstAPI.genruntimeconfig.cache
 C:\Users\guilh\Documents\Projects\MyfirstAPI\obj\Debug\net8.0\ref\MyfirstAPI.dll
+C:\Users\guilh\Documents\Projects\MyfirstAPI\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\guilh\Documents\Projects\MyfirstAPI\obj\Debug\net8.0\MyfirstAPI.sourcelink.json
