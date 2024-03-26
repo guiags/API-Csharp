@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\communication\\responses\\responseregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:communication\\responses\\responseregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\communication\\requests\\requestregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:communication\\requests\\requestregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ResponseRegisterUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Communication\\Responses\\ResponseRegisterUserJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Responses\\ResponseRegisterUserJson.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Communication\\Responses\\ResponseRegisterUserJson.cs",
+              "RelativeToolTip": "Communication\\Responses\\ResponseRegisterUserJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:33:49.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestRegisterUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Communication\\Requests\\RequestRegisterUserJson.cs",
+              "RelativeDocumentMoniker": "Communication\\Requests\\RequestRegisterUserJson.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Communication\\Requests\\RequestRegisterUserJson.cs",
+              "RelativeToolTip": "Communication\\Requests\\RequestRegisterUserJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:19:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:39:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAANAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowCMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T09:11:51.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
