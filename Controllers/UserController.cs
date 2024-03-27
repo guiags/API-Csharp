@@ -4,9 +4,9 @@ using MyfirstAPI.Communication.Requests;
 using MyfirstAPI.Communication.Responses;
 
 namespace MyfirstAPI.Controllers;
-[Route("api/[controller]")]
-[ApiController]
-public class UserController : ControllerBase
+
+
+public class UserController : MyfirstAPIBaseController //Heranlça do controller para manter o route igual dentre outros aspectos
 {
     [HttpGet]
     [Route("{id}")]
@@ -37,4 +37,38 @@ public class UserController : ControllerBase
 
         return Created(string.Empty, response);//uri, object
     }
+
+
+    [HttpPut]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    public IActionResult Update([FromBody] RequestUpdateUserProfileJson request)
+    {
+        return NoContent();
+    }
+
+
+    [HttpDelete]
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    public IActionResult Delete()
+    {
+        return NoContent();
+    }
+
+    [HttpGet]
+    [ProducesResponseType(typeof(List<User>), StatusCodes.Status200OK)]
+    public IActionResult GetAll()
+    {
+        var response = new List<User>() { 
+            new User {id = 1, age = 10, name = "Ana"},
+            new User {id = 2, age = 7, name = "Gui"}
+        };
+        return Ok(response);
+    }
+
+    [HttpPut("change-password")] // Diferenciar a rota
+    [ProducesResponseType(StatusCodes.Status204NoContent)]
+    public IActionResult ChangePassword([FromBody] RequestChangePasswordJson request)
+    {
+        return NoContent();
+    } 
 }
