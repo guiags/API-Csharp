@@ -8,4 +8,10 @@ namespace MyfirstAPI.Controllers;
 public class MyfirstAPIBaseController : ControllerBase
 {
     public string Produto { get; set; } = "lápis";
+
+    protected string GetCustomKey()
+    {
+        return Request.Headers["MyKey"].ToString();
+    }
+
 }

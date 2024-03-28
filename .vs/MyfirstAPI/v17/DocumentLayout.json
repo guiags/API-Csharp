@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\entities\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:entities\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:controllers\\myfirstapibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\entities\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:entities\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|solutionrelative:entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DABC2C7C-34D9-437C-947B-1D7E49324FCB}|MyfirstAPI.csproj|c:\\users\\guilh\\documents\\projects\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Laptop.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Entities\\Laptop.cs",
               "RelativeDocumentMoniker": "Entities\\Laptop.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Entities\\Laptop.cs",
               "RelativeToolTip": "Entities\\Laptop.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABsAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA7wBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T09:16:52.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Device.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Entities\\Device.cs",
               "RelativeDocumentMoniker": "Entities\\Device.cs",
@@ -64,39 +64,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MyfirstAPIBaseController.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\MyfirstAPIBaseController.cs",
               "RelativeDocumentMoniker": "Controllers\\MyfirstAPIBaseController.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\MyfirstAPIBaseController.cs",
               "RelativeToolTip": "Controllers\\MyfirstAPIBaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T09:01:00.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DeviceController.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\DeviceController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "Controllers\\DeviceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAEAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T08:55:32.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\MyfirstAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAA0wAgAAACAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwAgAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T09:11:51.898Z",
               "EditorCaption": ""

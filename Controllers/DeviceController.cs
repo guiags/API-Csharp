@@ -9,7 +9,8 @@ public class DeviceController : MyfirstAPIBaseController
     [HttpGet]
     public IActionResult Get()
     {
-        return Ok(Produto); // Produto foi crido na classe pai MyfirstAPIBaseController
+        var key = GetCustomKey();
+        return Ok(key); // Produto foi crido na classe pai MyfirstAPIBaseController/ Alterado para key gerada em myfirstapibasecontroller
     }
 
     [HttpGet("heranca")]
